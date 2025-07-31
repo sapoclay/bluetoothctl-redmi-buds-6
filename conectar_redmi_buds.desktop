@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Redmi Buds 6 Toggle
+Comment=Conecta o desconecta los Redmi Buds 6 por Bluetooth
+Exec=/home/entreunosyceros/scripts/conectar_redmi_buds.sh
+Icon=redmi_buds
+Terminal=false
+Type=Application
+Categories=Utility;Audio;
+StartupNotify=false
